@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LockTableViewProject.iml" filepath="$PROJECT_DIR$/.idea/modules/LockTableViewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LockTableViewProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LockTableViewProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locktableview/LockTableViewProject.locktableview.iml" filepath="$PROJECT_DIR$/.idea/modules/locktableview/LockTableViewProject.locktableview.iml" />
+    </modules>
+  </component>
+</project>
